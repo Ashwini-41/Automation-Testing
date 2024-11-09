@@ -5,11 +5,10 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
-
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.events.EventFiringWebDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 import com.crm.qa.util.TestUtil;
@@ -18,6 +17,8 @@ public class TestBase {
     
 	public static WebDriver driver;
 	public static Properties prop;
+    private static final Logger Log = Logger.getLogger(TestBase.class);
+
 	
 	public TestBase(){
 		try {
@@ -31,7 +32,11 @@ public class TestBase {
 		}
 	}
 	
-	public static void initialization(){
+	public void initialization(){
+		Log.info("Initializing the bowser ");
+		Log.info("Browser name : " + prop.getProperty("browser"));
+		
+		
 		String browserName = prop.getProperty("browser");
 		
 		if(browserName.equals("chrome")){

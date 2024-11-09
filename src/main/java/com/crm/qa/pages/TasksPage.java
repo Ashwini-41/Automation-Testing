@@ -49,6 +49,7 @@ public class TasksPage extends TestBase{
 		
 	}
 	
+	
 	public String checkCountOfTasks() {
 		String count = getCountOfTask.getText();
 		return count;

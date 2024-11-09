@@ -1,5 +1,6 @@
 package com.crm.qa.pages;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -7,6 +8,8 @@ import org.openqa.selenium.support.PageFactory;
 import com.crm.qa.base.TestBase;
 
 public class LoginPage extends TestBase {
+	
+	private static final Logger Log = Logger.getLogger(LoginPage.class);
    
 	//Object Repository
 	@FindBy(name="email")
@@ -42,9 +45,13 @@ public class LoginPage extends TestBase {
 	}
 	
 	public HomePage login(String un,String pwd) {
+		Log.info("Attempting to log in with username : " + un);
+		Log.info("Attempting to log in with password : " + pwd);
+		
 		username.sendKeys(un);
 		password.sendKeys(pwd);
 		loginbutton.click();
+		Log.info("Login Successful");
 		
 		return new HomePage();
 	}

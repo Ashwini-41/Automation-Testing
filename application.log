@@ -1,0 +1,392 @@
+2024-10-29 05:52:07 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 05:52:14 INFO  LoginPageTest:39 - Logging method is running
+  2024-10-29 05:52:14 INFO  LoginPage:48 - Attempting to log in with username and password 
+  2024-10-29 06:02:34 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 06:02:56 INFO  LoginPageTest:39 - Logging method is running
+  2024-10-29 06:02:56 INFO  LoginPage:48 - Attempting to log in with username and password 
+  2024-10-29 06:03:02 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 06:03:23 INFO  LoginPageTest:39 - Logging method is running
+  2024-10-29 06:03:23 INFO  LoginPage:48 - Attempting to log in with username and password 
+  2024-10-29 06:04:15 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 06:04:35 INFO  LoginPageTest:39 - Logging method is running
+  2024-10-29 06:04:35 INFO  LoginPage:48 - Attempting to log in with username and password 
+  2024-10-29 06:05:05 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 06:05:22 INFO  LoginPageTest:39 - Logging method is running
+  2024-10-29 06:05:22 INFO  LoginPage:48 - Attempting to log in with username and password 
+  2024-10-29 06:08:14 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 06:10:09 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 06:10:09 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 06:10:13 INFO  LoginPageTest:40 - Logging method is running
+  2024-10-29 06:10:13 INFO  LoginPage:48 - Attempting to log in with usernameashwinihgarad41@gmail.com
+  2024-10-29 06:10:13 INFO  LoginPage:49 - Attempting to log in with passwordTest@123
+  2024-10-29 06:18:41 DEBUG LoginPageTest:27 - Launch the browser
+  2024-10-29 06:18:41 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 06:18:41 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 06:18:45 INFO  LoginPageTest:40 - Logging method is running
+  2024-10-29 06:18:45 DEBUG LoginPageTest:41 - this ia a Debug message
+  2024-10-29 06:18:45 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-10-29 06:18:45 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-10-29 06:19:33 DEBUG LoginPageTest:27 - Launch the browser
+  2024-10-29 06:19:33 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 06:19:33 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 06:19:43 INFO  LoginPageTest:40 - Logging method is running
+  2024-10-29 06:19:43 DEBUG LoginPageTest:41 - this ia a Debug message
+  2024-10-29 06:19:43 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-10-29 06:19:43 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-10-29 06:21:09 DEBUG LoginPageTest:27 - Launch the browser
+  2024-10-29 06:21:09 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 06:21:09 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 06:21:29 INFO  LoginPageTest:40 - Logging method is running
+  2024-10-29 06:21:29 DEBUG LoginPageTest:41 - this ia a Debug message
+  2024-10-29 06:21:29 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-10-29 06:21:29 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-10-29 06:21:30 INFO  LoginPage:54 - Login Successful
+  2024-10-29 07:46:07 DEBUG LoginPageTest:27 - Launch the browser
+  2024-10-29 07:46:07 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:46:07 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:46:31 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:46:31 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:46:47 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-10-29 07:46:47 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-10-29 07:46:48 INFO  LoginPage:54 - Login Successful
+  2024-10-29 07:46:54 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:46:54 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:46:56 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-10-29 07:46:56 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-10-29 07:47:08 INFO  LoginPage:54 - Login Successful
+  2024-10-29 07:47:16 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:47:16 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:47:38 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:47:38 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:48:02 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:48:02 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:49:04 DEBUG LoginPageTest:27 - Launch the browser
+  2024-10-29 07:49:04 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:49:04 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:49:40 DEBUG LoginPageTest:27 - Launch the browser
+  2024-10-29 07:49:40 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:49:40 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:50:11 DEBUG LoginPageTest:27 - Launch the browser
+  2024-10-29 07:50:11 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:50:11 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:50:32 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:50:32 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:50:35 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-10-29 07:50:35 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-10-29 07:50:55 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:50:55 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:51:18 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:51:18 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:59:34 DEBUG LoginPageTest:27 - Launch the browser
+  2024-10-29 07:59:34 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:59:34 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 07:59:58 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 07:59:58 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 08:00:21 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 08:00:21 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 08:00:43 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 08:00:43 INFO  TestBase:38 - Browser name : chrome
+  2024-10-29 08:00:48 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-10-29 08:00:48 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-10-29 14:22:47 DEBUG LoginPageTest:27 - Launch the browser
+  2024-10-29 14:22:47 INFO  TestBase:37 - Initializing the bowser 
+  2024-10-29 14:22:47 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:03:44 DEBUG LoginPageTest:27 - Launch the browser
+  2024-11-04 13:03:44 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:03:44 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:04:13 DEBUG LoginPageTest:27 - Launch the browser
+  2024-11-04 13:04:13 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:04:13 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:04:33 DEBUG LoginPageTest:27 - Launch the browser
+  2024-11-04 13:04:33 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:04:33 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:04:35 INFO  LoginPageTest:40 - Logging method is running
+  2024-11-04 13:04:35 DEBUG LoginPageTest:41 - this ia a Debug message
+  2024-11-04 13:04:35 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:04:35 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:04:39 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:04:49 DEBUG LoginPageTest:27 - Launch the browser
+  2024-11-04 13:04:49 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:04:49 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:05:05 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:05:05 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:05:09 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:05:09 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:05:10 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:05:15 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:05:15 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:05:20 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:05:20 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:05:20 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:05:28 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:05:28 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:05:31 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:05:31 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:05:34 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:05:42 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:05:42 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:05:46 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:05:46 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:05:47 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:05:55 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:05:55 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:06:00 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:06:00 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:06:00 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:06:08 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:06:08 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:06:13 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:06:13 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:06:13 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:06:17 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:06:17 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:06:22 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:06:22 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:06:23 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:06:32 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:06:32 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:06:37 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:06:37 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:06:37 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:06:48 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:06:48 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:06:52 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:06:52 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:06:56 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:07:07 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:07:07 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:07:12 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:07:12 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:07:12 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:07:18 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:07:18 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:07:23 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:07:23 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:07:23 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:07:39 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:07:39 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:07:44 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:07:44 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:07:44 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:08:00 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:08:00 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:08:05 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:08:05 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:08:06 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:08:22 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:08:22 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:08:27 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:08:27 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:08:27 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:08:35 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:08:35 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:08:38 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:08:38 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:08:41 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:08:50 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:08:50 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:08:55 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:08:55 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:08:56 INFO  LoginPage:54 - Login Successful
+  2024-11-04 13:09:10 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 13:09:10 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 13:09:16 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 13:09:16 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 13:09:16 INFO  LoginPage:54 - Login Successful
+  2024-11-04 17:19:18 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-04 17:19:18 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 17:19:18 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 17:19:40 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-04 17:19:40 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 17:19:40 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 17:19:57 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-04 17:19:57 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 17:19:57 INFO  TestBase:38 - Browser name : chrome
+  2024-11-04 17:20:03 INFO  LoginPageTest:45 - Logging method is running
+  2024-11-04 17:20:03 DEBUG LoginPageTest:46 - this ia a Debug message
+  2024-11-04 17:20:03 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-04 17:20:03 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-04 17:20:03 INFO  LoginPage:54 - Login Successful
+  2024-11-04 17:20:13 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-04 17:20:13 INFO  TestBase:37 - Initializing the bowser 
+  2024-11-04 17:20:13 INFO  TestBase:38 - Browser name : chrome
+  2024-11-06 13:52:47 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-06 13:52:47 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-06 13:52:47 INFO  TestBase:37 - Browser name : chrome
+  2024-11-06 13:53:12 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-06 13:53:12 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-06 13:53:12 INFO  TestBase:37 - Browser name : chrome
+  2024-11-06 13:53:28 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-06 13:53:28 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-06 13:53:28 INFO  TestBase:37 - Browser name : chrome
+  2024-11-06 13:53:33 INFO  LoginPageTest:45 - Logging method is running
+  2024-11-06 13:53:33 DEBUG LoginPageTest:46 - this ia a Debug message
+  2024-11-06 13:53:33 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-06 13:53:33 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-06 13:53:34 INFO  LoginPage:54 - Login Successful
+  2024-11-06 13:53:44 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-06 13:53:44 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-06 13:53:44 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:14:34 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-08 23:14:34 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:14:59 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-08 23:14:59 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-08 23:14:59 INFO  LoginPage:54 - Login Successful
+  2024-11-08 23:16:20 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-08 23:16:20 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:16:30 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-08 23:16:30 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-08 23:16:31 INFO  LoginPage:54 - Login Successful
+  2024-11-08 23:16:56 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-08 23:16:56 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:17:13 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-08 23:17:13 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-08 23:17:13 INFO  LoginPage:54 - Login Successful
+  2024-11-08 23:18:10 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-08 23:18:10 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:18:13 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-08 23:18:13 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-08 23:18:24 INFO  LoginPage:54 - Login Successful
+  2024-11-08 23:26:19 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-08 23:26:19 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:26:28 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-08 23:26:28 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-08 23:26:28 INFO  LoginPage:54 - Login Successful
+  2024-11-08 23:26:46 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-08 23:26:46 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:26:54 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-08 23:26:54 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-08 23:26:55 INFO  LoginPage:54 - Login Successful
+  2024-11-08 23:44:03 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-08 23:44:03 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:44:15 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-08 23:44:15 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-08 23:44:16 INFO  LoginPage:54 - Login Successful
+  2024-11-08 23:44:25 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-08 23:44:25 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:44:38 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-08 23:44:38 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-08 23:44:38 INFO  LoginPage:54 - Login Successful
+  2024-11-08 23:44:47 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-08 23:44:47 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:44:57 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-08 23:44:57 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-08 23:44:57 INFO  LoginPage:54 - Login Successful
+  2024-11-08 23:45:07 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-08 23:45:07 INFO  TestBase:37 - Browser name : chrome
+  2024-11-08 23:45:17 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-08 23:45:17 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-08 23:45:18 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:14:49 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-09 01:14:49 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:14:49 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:15:28 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-09 01:15:28 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:15:28 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:15:52 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-09 01:15:52 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:15:52 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:16:04 INFO  LoginPageTest:45 - Logging method is running
+  2024-11-09 01:16:04 DEBUG LoginPageTest:46 - this ia a Debug message
+  2024-11-09 01:16:04 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:16:04 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:16:05 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:16:15 DEBUG LoginPageTest:32 - Launch the browser
+  2024-11-09 01:16:15 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:16:15 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:16:37 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:16:37 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:16:49 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:16:49 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:16:49 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:16:55 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:16:55 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:16:58 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:16:58 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:17:05 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:17:14 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:17:14 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:17:24 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:17:24 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:17:24 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:17:33 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:17:33 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:17:45 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:17:45 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:17:45 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:17:54 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:17:54 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:18:09 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:18:09 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:18:10 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:18:19 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:18:19 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:18:34 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:18:34 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:18:34 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:18:39 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:18:39 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:18:58 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:18:58 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:18:59 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:19:09 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:19:09 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:19:11 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:19:11 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:19:19 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:19:30 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:19:30 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:19:33 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:19:33 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:19:47 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:19:59 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:19:59 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:20:15 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:20:15 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:20:15 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:20:22 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:20:22 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:20:31 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:20:31 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:20:31 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:20:48 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:20:48 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:21:01 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:21:01 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:21:01 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:21:18 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:21:18 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:21:22 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:21:22 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:21:39 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:21:56 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:21:56 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:22:16 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:22:16 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:22:16 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:22:26 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:22:26 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:22:29 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:22:29 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:22:38 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:22:57 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:22:57 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:23:06 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:23:06 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:23:06 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:23:21 INFO  TestBase:36 - Initializing the bowser 
+  2024-11-09 01:23:21 INFO  TestBase:37 - Browser name : chrome
+  2024-11-09 01:23:33 INFO  LoginPage:48 - Attempting to log in with username : ashwinihgarad41@gmail.com
+  2024-11-09 01:23:33 INFO  LoginPage:49 - Attempting to log in with password : Test@123
+  2024-11-09 01:23:33 INFO  LoginPage:54 - Login Successful
+  2024-11-09 01:23:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+  2024-11-09 01:23:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+  2024-11-09 01:23:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2024-11-09 01:23:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2024-11-09 01:23:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ashwi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2024-11-09 01:23:51 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+  2024-11-09 01:23:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+  2024-11-09 01:23:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2024-11-09 01:23:51 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2024-11-09 01:23:51 DEBUG cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ashwi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  

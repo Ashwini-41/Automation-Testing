@@ -28,6 +28,10 @@ public class HomePage extends TestBase{
 	@FindBy(xpath="//button[text() = 'Create']")
 	WebElement newContactLink;
 	
+	@FindBy(xpath="//span[text()='Calendar']")
+	WebElement calendarLink;
+	
+	
 	public HomePage() {
 		PageFactory.initElements(driver,this);
 	}
@@ -62,6 +66,11 @@ public class HomePage extends TestBase{
        Actions action = new Actions(driver);
        action.moveToElement(contactsLink).build().perform();
        newContactLink.click();
+	}
+	
+	public CalendarPage clickOnCalenderLink() {
+		calendarLink.click();
+		return new CalendarPage();
 	}
 	
 	
